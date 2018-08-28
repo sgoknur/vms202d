@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on Course #</title>
+    <link>https://mjvo.github.io/course-stub/announcements/</link>
+    <description>Recent content in Announcements on Course #</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mjvo.github.io/course-stub/announcements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to VMS 202D!</title>
+      <link>https://mjvo.github.io/course-stub/announcements/2018-08-28welcome/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mjvo.github.io/course-stub/announcements/2018-08-28welcome/</guid>
+      <description>Welcome to &amp;ldquo;Introduction to Visual Culture&amp;rdquo;! We&amp;rsquo;re looking forward to a great Fall semester and hope that you&amp;rsquo;ll find this introduction to the field of visual and media studies engaging and challenging.
+Our goal is to equip you with the conceptual and critical tools necessary for further coursework in VMS, as well as to faciliate a foundational understanding of how images and practices of seeing / being seen matter in the contemporary world, and how historical regimes of visuality continue to shape the present.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to the first day of class</title>
+      <link>https://mjvo.github.io/course-stub/announcements/welcome/</link>
+      <pubDate>Sun, 12 Aug 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://mjvo.github.io/course-stub/announcements/welcome/</guid>
+      <description>  Steve Francia   one  1 2 3  two   sub2 </description>
+    </item>
+    
+  </channel>
+</rss>

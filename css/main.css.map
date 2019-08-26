@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/molson/Documents/Github/vms202d",
+	"sourceRoot": "/Users/seminars/Documents/GitHub/vms202d",
 	"sources": [
 		"themes/hugo-course/assets/main.scss",
 		"themes/hugo-course/assets/bulma/utilities/_all.sass",
